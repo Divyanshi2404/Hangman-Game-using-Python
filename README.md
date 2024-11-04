@@ -1,7 +1,7 @@
 # Hangman-Game-using-Python
 A **Hangman Game** in Python is a fun and interactive project that introduces core programming concepts such as loops, conditionals, and data handling. In this classic word-guessing game, the player tries to guess a hidden word letter by letter. Each incorrect guess brings them closer to "hanging" as a new part of the hangman is drawn.
 
-**Key Features:**
+*******Key Features:*******
 
 **Word Selection**: The game selects a random word from a predefined list or a dictionary file.
 
@@ -11,7 +11,7 @@ A **Hangman Game** in Python is a fun and interactive project that introduces co
 
 **Win/Loss Conditions**: The player wins if they guess all letters correctly before reaching a maximum number of wrong guesses; otherwise, they lose.
 
-**Learning Outcomes:**
+*******Learning Outcomes:*******
 
 **String Manipulation** : Check and reveal guessed letters in the word.
 
